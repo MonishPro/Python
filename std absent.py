@@ -15,3 +15,4 @@ if attendance != 0:
         print("Sorry",name,"You are failed")
 else:
     print("You were absent")
+#done
